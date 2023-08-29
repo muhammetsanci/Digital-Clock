@@ -63,7 +63,7 @@ public class Main {
                     break;
 
                 case "1":
-                    System.out.print(">>> Please enter the time as HH:MM format: ");
+                    System.out.print(">>> Please enter the time as HH.MM format: ");
                     String timeInput = scanner.next();
                     System.out.println();
 
